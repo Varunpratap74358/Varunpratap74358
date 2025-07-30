@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://poetic-crisp-8c58cc.netlify.app/](https://poetic-crisp-8c58cc.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://portfoliyo-pi-ivory.vercel.app/)
 
 - 💬 Ask me about **React, Node, Express, MongoDB**
 
